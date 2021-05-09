@@ -82,7 +82,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ### Current UML
 
-![UML](/UML.png)
+![UML](/UML.jpg)
 
 ## Versioning
 
